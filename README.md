@@ -1,4 +1,5 @@
 # credal: A debugging tool to locate vulnerability area from core dump caused by memory corruption.  
+# We are now releasing the code step by step. At the current stage, we have only opened the code for 32-bit Linux core dump parsing. Other components will come soon. 
 
 ## Prerequirement
 
